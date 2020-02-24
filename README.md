@@ -1,5 +1,6 @@
-Link of the wireframe design using Figma: https://www.figma.com/file/jtdGezgXrIhjOluKcy5Xpm/eduplex-wireframe-Copy?node-id=0%3A1
+## Wireframe design
 
+Link of the wireframe design using Figma: https://www.figma.com/file/jtdGezgXrIhjOluKcy5Xpm/eduplex-wireframe-Copy?node-id=0%3A1
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
