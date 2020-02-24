@@ -1,0 +1,12 @@
+Navbar {
+    max-height: 46px;
+}
+
+div.container {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.search-box {
+    width: 500px;
+}

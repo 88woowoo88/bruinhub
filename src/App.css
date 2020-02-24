@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+/*Shren*/
+
+.context .row {
+  height: 100vh;
+  margin: 0;
+}
+
+
+div.sidebar {
+  background-color: black;
+  padding: 0;
+  height: 100%;
+}
